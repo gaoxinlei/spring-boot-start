@@ -12,7 +12,7 @@
   
   
   <dependencies>
-  <!-- springboot web支持 -->
+  <!-- springboot web支持 ,凡带有starter的jar均为自动帮助我们配置对应的组件-->
 	  <dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-web</artifactId>
